@@ -38,7 +38,6 @@
     "stylus": "^0.54.7",
     "uglify-js": "^3.8.0"
   },
-  "dependencies": {},
   "bugs": {
     "url": "https://github.com/jaywcjlove/linux-command/issues"
   },
